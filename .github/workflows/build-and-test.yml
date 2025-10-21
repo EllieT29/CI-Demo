@@ -13,7 +13,7 @@ env:
 
 defaults:
   run:
-    working-directory: GitHub/CI-Demo/CI-Demo
+    working-directory: /GitHub/CI-Demo
 
 jobs:
   build-and-test:
