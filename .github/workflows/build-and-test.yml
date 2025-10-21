@@ -13,7 +13,7 @@ env:
 
 defaults:
   run:
-    working-directory: unit-testing-using-dotnet-test
+    working-directory: /GitHub/CI-Demo/CIDemo/unit-testing-using-dotnet-test
 
 jobs:
   build-and-test:
